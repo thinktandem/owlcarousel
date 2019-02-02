@@ -1,0 +1,13 @@
+{
+  "name": "thinktandem/owlcarousel",
+  "description": "Owl Carousel 2.3.4",
+  "type": "drupal-library",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/thinktandem/owlcarousel",
+  "authors": [
+      {
+          "name": "John Ouellet",
+          "email": "john@thinktandem.io"
+      }
+  ]
+}
