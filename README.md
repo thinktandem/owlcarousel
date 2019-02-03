@@ -10,8 +10,7 @@ owlcarousel:
   css:
     component:
       ../../../libraries/owlcarousel/assets/owl.carousel.css: {}
-      ../../../libraries/owlcarousel/assets/owl.theme.css: {}
-      ../../../libraries/owlcarousel/assets/owl.transitions.css: {}
+      ../../../libraries/owlcarousel/assets/owl.theme.default.min.css: {}
   js:
     ../../../libraries/owlcarousel/owl.carousel.min.js: {}
   dependencies:
